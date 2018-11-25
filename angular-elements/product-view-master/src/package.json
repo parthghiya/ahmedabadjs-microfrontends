@@ -1,0 +1,9 @@
+{
+  "name": "mf-pv",
+  "author":"lionel robbin",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "bundles/mf-pv.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts"
+}
